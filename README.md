@@ -12,8 +12,6 @@ The aim of this project is to deploy a containerized Django-based Notes applicat
 
 ---
 
----
-
 ## Problem Definition
 
 Traditional application deployment methods tightly couple the application to a specific server, operating system, and runtime environment. This often leads to environment inconsistencies, manual recovery from failures, limited scalability, and complex deployment processes.
@@ -40,6 +38,8 @@ Kubernetes solves these challenges through declarative configuration, container 
 * **Kubernetes Service (ClusterIP):** Provides stable internal networking and service discovery.
 * **kubectl:** CLI tool to deploy, manage, and monitor Kubernetes resources.
 * **Port Forwarding:** Temporarily exposes Kubernetes services externally for testing.
+
+---
 
 ## Step-by-Step Implementation
 
@@ -262,6 +262,10 @@ Access in browser:
 ```
 http://<PUBLIC-IP>:8000
 ```
+
+---
+
+## Documentation Link :
 
 ---
 

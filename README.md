@@ -269,6 +269,12 @@ http://<PUBLIC-IP>:8000
 
 ---
 
+---
+
+## Medium Blog : https://medium.com/@kavitdeepakmehta/end-to-end-deployment-of-a-containerized-django-application-on-kubernetes-using-kind-a52f8c193fa6
+
+---
+
 ## Conclusion
 
 This project demonstrates an end-to-end Kubernetes deployment workflow using Docker, KIND, and Kubernetes core primitives. It provides hands-on understanding of container orchestration, declarative deployments, self-healing workloads, and Kubernetes networking, forming a strong foundation for production-grade Kubernetes deployments.
